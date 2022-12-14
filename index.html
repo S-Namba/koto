@@ -62,20 +62,16 @@ body{
     background-repeat: repeat;
 }
 div {
-    padding: 10px;
-    font-size: 12px;
+    padding: 0px;
+    font-size: 0px;
 }
-.hashira {
+.hashira04 {
     position: absolute;
     z-index: 2; /* スタック文脈を形成 */
-    top: 200px;
-    width: 400px;
-    height: 100px;
-    background-color: rgba(255,0,0,0.5);
 }
 .gen {
     position: absolute;
-    z-index: 5; /* スタック文脈を形成 */
+    z-index: 4; /* スタック文脈を形成 */
     top: 50px;
     left: 100px;
     width: 200px;
@@ -84,28 +80,28 @@ div {
 }
 .bangou {
     position: absolute;
-    z-index: 6; /* スタック文脈を形成 */
+    z-index: 5; /* スタック文脈を形成 */
     top: 65px;
-    left: 10px;
+    left: 100px;
     width: 100px;
     height: 100px;
     background-color: rgba(0,0,255,1);
 }
-.hr{
-  border-top: 1px solid #fff;
-  border-bottom: 1px solid #ccc;
-  z-index: 4; /* スタック文脈を形成 */
+.str04{
+    position: absolute;
+    z-index: 3; /* スタック文脈を形成 */
+    height: 25px;
+    border: solid 3px #555555;
+    background-color: white;
+    width: 100%;
 }
     
 }
 </style>
 <body>
-<div class="background">
-<div class="hashira"><img src="hashira.gif"></div>
 <div class="gen">
-  <img src="gen.gif">
+
   <div class="bangou"><img src="bangou.gif"></div>
-</div>
 </div>
 
 <br>
@@ -122,15 +118,12 @@ div {
 <br>
 <br>
 <audio id="a_04"><source src="04_四A.mp3" type="audio/mp3"></audio>
-<div class="str04" onclick="audio04()"><hr></div>
+<div class="str04" onclick="audio04()"></div>
+<div class="hashira04"><img src="hashira.png"></div>
 <br>
 <br>
 <audio id="a_05"><source src="05_五D.mp3" type="audio/mp3"></audio>
 <div class="str05" onclick="audio05()"><hr size="10" color="white"></div>
-<br>
-<br>
-<audio id="a_06"><source src="06_六D.mp3" type="audio/mp3"></audio>
-<div class="str06" onclick="audio06()"><hr size="10" color="white"></div>
 <br>
 <br>
 <audio id="a_06"><source src="06_六D.mp3" type="audio/mp3"></audio>
