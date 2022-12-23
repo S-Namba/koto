@@ -1,0 +1,287 @@
+body{
+    background-image: url("木目.jpeg");
+    background-size: cover;
+}
+div {
+    padding: 0px;
+    font-size: 0px;
+}
+.bangou01 {
+    position: absolute;
+    z-index: 2; /* 2番目 */
+    top: 20px;
+}
+
+.bangou02 {
+    position: absolute;
+    z-index: 2; /* 2番目 */
+    top: 93px;
+}
+.bangou03 {
+    position: absolute;
+    z-index: 2; /* 2番目 */
+    top: 166px;
+}
+.bangou04 {
+    position: absolute;
+    z-index: 2; /* 2番目 */
+    top: 239px;
+}
+.bangou05 {
+    position: absolute;
+    z-index: 2; /* 2番目 */
+    top: 312px;
+}
+.bangou06 {
+    position: absolute;
+    z-index: 2; /* 2番目 */
+    top: 385px;
+}
+.bangou07 {
+    position: absolute;
+    z-index: 2; /* 2番目 */
+    top: 458px;
+}
+.bangou08 {
+    position: absolute;
+    z-index: 2; /* 2番目 */
+    top: 531px;
+}
+.bangou09 {
+    position: absolute;
+    z-index: 2; /* 2番目 */
+    top: 604px;
+}
+.bangou10 {
+    position: absolute;
+    z-index: 2; /* 2番目 */
+    top: 677px;
+}
+.bangou11 {
+    position: absolute;
+    z-index: 2; /* 2番目 */
+    top: 750px;
+}
+.bangou12 {
+    position: absolute;
+    z-index: 2; /* 2番目 */
+    top: 823px;
+}
+.bangou13 {
+    position: absolute;
+    z-index: 2; /* 2番目 */
+    top: 896px;
+}
+
+
+.hashira01 {
+    position: relative;
+    z-index: 2; /* ２番目 */
+    top: -25px;
+    left: 100px;
+}
+.hashira02 {
+    position: relative;
+    z-index: 2; /* ２番目 */
+    top: -55px;
+    left: 150px;
+}
+.hashira03 {
+    position: relative;
+    z-index: 2; /* ２番目 */
+    top: -85px;
+    left: 200px;
+}
+.hashira04 {
+    position: relative;
+    z-index: 2; /* ２番目 */
+    top: -115px;
+    left: 250px;
+}
+.hashira05 {
+    position: relative;
+    z-index: 2; /* ２番目 */
+    top: -145px;
+    left: 300px;
+}
+.hashira06 {
+    position: relative;
+    z-index: 2; /* ２番目 */
+    top: -175px;
+    left: 350px;
+}
+.hashira07 {
+    position: relative;
+    z-index: 2; /* ２番目 */
+    top: -205px;
+    left: 400px;
+}
+.hashira08 {
+    position: relative;
+    z-index: 2; /* ２番目 */
+    top: -235px;
+    left: 450px;
+}
+.hashira09 {
+    position: relative;
+    z-index: 2; /* ２番目 */
+    top: -265px;
+    left: 500px;
+}
+.hashira10 {
+    position: relative;
+    z-index: 2; /* ２番目 */
+    top: -295px;
+    left: 550px;
+}
+.hashira11 {
+    position: relative;
+    z-index: 2; /* ２番目 */
+    top: -325px;
+    left: 600px;
+}
+.hashira12 {
+    position: relative;
+    z-index: 2; /* ２番目 */
+    top: -355px;
+    left: 650px;
+}
+.hashira13 {
+    position: relative;
+    z-index: 2; /* ２番目 */
+    top: -385px;
+    left: 700px;
+}
+
+.str01{
+    position: relative;
+    z-index: 3; /* 3番目 */
+    top:-75px;
+    left: 60px;
+    height: 10px;
+    border: solid 3px #555555;
+    background-color: white;
+    width: 100%;
+}
+.str02{
+    position: relative;
+    z-index: 3; /* 3番目 */
+    top:-105px;
+    left: 60px;
+    height: 10px;
+    border: solid 3px #555555;
+    background-color: white;
+    width: 100%;
+}
+.str03{
+    position: relative;
+    z-index: 3; /* 3番目 */
+    top:-135px;
+    left: 60px;
+    height: 10px;
+    border: solid 3px #555555;
+    background-color: white;
+    width: 100%;
+}
+.str04{
+    position: relative;
+    z-index: 3; /* 3番目 */
+    top:-165px;
+    left: 60px;
+    height: 10px;
+    border: solid 3px #555555;
+    background-color: white;
+    width: 100%;
+}
+.str05{
+    position: relative;
+    z-index: 3; /* 3番目 */
+    top:-195px;
+    left: 60px;
+    height: 10px;
+    border: solid 3px #555555;
+    background-color: white;
+    width: 100%;
+}
+.str06{
+    position: relative;
+    z-index: 3; /* 3番目 */
+    top:-225px;
+    left: 60px;
+    height: 10px;
+    border: solid 3px #555555;
+    background-color: white;
+    width: 100%;
+}
+.str07{
+    position: relative;
+    z-index: 3; /* 3番目 */
+    top:-255px;
+    left: 60px;
+    height: 10px;
+    border: solid 3px #555555;
+    background-color: white;
+    width: 100%;
+}
+.str08{
+    position: relative;
+    z-index: 3; /* 3番目 */
+    top:-285px;
+    left: 60px;
+    height: 10px;
+    border: solid 3px #555555;
+    background-color: white;
+    width: 100%;
+}
+.str09{
+    position: relative;
+    z-index: 3; /* 3番目 */
+    top:-315px;
+    left: 60px;
+    height: 10px;
+    border: solid 3px #555555;
+    background-color: white;
+    width: 100%;
+}
+.str10{
+    position: relative;
+    z-index: 3; /* 3番目 */
+    top:-345px;
+    left: 60px;
+    height: 10px;
+    border: solid 3px #555555;
+    background-color: white;
+    width: 100%;
+}
+.str11{
+    position: relative;
+    z-index: 3; /* 3番目 */
+    top:-375px;
+    left: 60px;
+    height: 10px;
+    border: solid 3px #555555;
+    background-color: white;
+    width: 100%;
+}
+.str12{
+    position: relative;
+    z-index: 3; /* 3番目 */
+    top:-405px;
+    left: 60px;
+    height: 10px;
+    border: solid 3px #555555;
+    background-color: white;
+    width: 100%;
+}
+.str13{
+    position: relative;
+    z-index: 3; /* 3番目 */
+    top:-435px;
+    left: 60px;
+    height: 10px;
+    border: solid 3px #555555;
+    background-color: white;
+    width: 100%;
+}
+    
+}
