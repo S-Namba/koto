@@ -50,3 +50,8 @@ function audio13() {
     document.getElementById('a_13').currentTime = 0; //連続クリックに対応
     document.getElementById('a_13').play(); //クリックしたら音を再生
 }
+function play_koto(e){
+var gen=e;
+var sound = new Audio(gen+'.mp3');
+sound.play();
+}
