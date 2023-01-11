@@ -1,6 +1,7 @@
 body{
     background-image: url("木目.jpeg");
     background-size: cover;
+    width: 100%;
 }
 div {
     padding: 0px;
